@@ -1,0 +1,22 @@
+#page-title {
+    text-align: center;
+    color: green;
+}
+
+#my-life {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.life-elem {
+    color: blue;
+    padding: 10px;
+    margin: 5px;
+}
+
+.life-elem:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
